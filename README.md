@@ -14,4 +14,5 @@ A diferencia de otras soluciones existentes, el sistema se caracteriza por su al
 Adicionalmente, la plataforma fomenta la interaccion y el compromiso de los usuarios al permitirles realizar predicciones y obtener recompensas en funcion de sus aciertos. Asimismo, contempla la opcion de organizar competencias dirigidas exclusivamente a espectadores, quienes podran realizar predicciones sobre eventos externos que no necesariamente hayan sido creados dentro del sistema.
 En conjunto, el proyecto busca integrar organizacion, transmision y analisis predictivo en un solo entorno digital, promoviendo una experiencia dinamica, participativa y accesible para todos los usuarios.
 
-LOGO: PENDIENTE PARA DISEÑAR
+LOGO: <img width="1338" height="612" alt="image" src="https://github.com/user-attachments/assets/309009da-ddf2-4d42-845c-946c4a379237" />
+
